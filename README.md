@@ -1,3 +1,3 @@
 # calculator
-[Demo]()
+[Demo](https://igorsukachov.github.io/calculater/)
 ![Screenshot](calc.png)
